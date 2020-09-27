@@ -1,0 +1,27 @@
+{
+  "name": "challenge12_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaaybe/challenge12_mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaaybe/challenge12_mysql/issues"
+  },
+  "homepage": "https://github.com/jaaybe/challenge12_mysql#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.2.5",
+    "sqlite3": "^5.0.0",
+    "util": "^0.12.3"
+  }
+}
